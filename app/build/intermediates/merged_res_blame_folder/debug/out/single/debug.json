@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-anydpi-v21_car.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-anydpi-v21\\car.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-hdpi_car.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-hdpi\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-mdpi_call.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-mdpi\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxhdpi_call.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxhdpi\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxhdpi_car.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxhdpi\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxhdpi_name.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-ldpi_contacts.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-ldpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-anydpi-v21_contacts.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-anydpi-v21\\contacts.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxxhdpi_call.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxxhdpi\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-hdpi_location.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-hdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxxhdpi_contacts.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxxhdpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-mdpi_name.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-mdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable_screenshot.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\drawable\\screenshot.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-hdpi_call.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-hdpi\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-hdpi_id.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-hdpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxxhdpi_name.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxxhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xhdpi_contacts.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xhdpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-ldpi_id.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-ldpi\\id.png"
+    },
+    {
+        "merged": "com.example.easyparking.app-merged_res-29:/layout_activity_homepage.xml.flat",
+        "source": "com.example.easyparking.app-main-31:/layout/activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-anydpi-v21_name.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-anydpi-v21\\name.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-ldpi_name.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-ldpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxhdpi_contacts.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxhdpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-ldpi_call.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-ldpi\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-ldpi_car.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-ldpi\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxxhdpi_location.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxxhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-hdpi_contacts.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-hdpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-anydpi-v21_id.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-anydpi-v21\\id.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\layout_activity_payment.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxhdpi_location.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxxhdpi_id.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxxhdpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-mdpi_id.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-mdpi\\id.png"
+    },
+    {
+        "merged": "com.example.easyparking.app-merged_res-29:/layout_activity_main.xml.flat",
+        "source": "com.example.easyparking.app-main-31:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-anydpi-v21_location.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-anydpi-v21\\location.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xhdpi_call.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xhdpi\\call.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-ldpi_location.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-ldpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-anydpi-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-anydpi-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxxhdpi_car.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxxhdpi\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xhdpi_car.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xhdpi\\car.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-mdpi_contacts.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-mdpi\\contacts.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-anydpi-v21_call.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-anydpi-v21\\call.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xhdpi_name.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xhdpi\\name.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xhdpi_location.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xhdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-mdpi_location.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-mdpi\\location.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\layout_activity_homepage.xml.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\layout\\activity_homepage.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-main-31:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xhdpi_id.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xhdpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-hdpi_name.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-hdpi\\name.png"
+    },
+    {
+        "merged": "com.example.easyparking.app-merged_res-29:/layout_activity_pay.xml.flat",
+        "source": "com.example.easyparking.app-main-31:/layout/activity_pay.xml"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-xxhdpi_id.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-xxhdpi\\id.png"
+    },
+    {
+        "merged": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-merged_res-29:\\drawable-mdpi_car.png.flat",
+        "source": "C:\\Users\\Robin icika\\.gradle\\daemon\\7.5\\com.example.easyparking.app-pngs-24:\\drawable-mdpi\\car.png"
+    }
+]
